@@ -1,0 +1,4 @@
+## GET
+GET https://localhost:5254/weatherforecast 
+
+
